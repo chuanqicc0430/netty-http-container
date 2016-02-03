@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>cu</groupId>
-	<artifactId>cu-http-container</artifactId>
+	<artifactId>netty-http-container</artifactId>
 	<version>master</version>
 	<packaging>jar</packaging>
-	<name>cu-http-container</name>
+	<name>netty-http-container</name>
 	<distributionManagement>
 		<repository>
 			<id>releases</id>
